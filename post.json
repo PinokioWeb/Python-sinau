@@ -1,0 +1,27 @@
+[
+   {
+	  "title": "My Firts Post",
+	  "content": "Post content a first",
+	  "user_id": 1
+   },
+   {
+	  "title": "My Second Post",
+	  "content": "This is a post from a different user",
+	  "user_id": 2
+   },
+   {
+	  "title": "Pengenlana Tipe Data",
+	  "content": "Di dalam membuat program PHP, tidak diperlukan pendeklarasian tipe data pada suatu variable, seperti dilakukan pada bahasa pemogramman lain.",
+	  "user_id": 1
+   },
+   {
+	  "title": "Jenis-Jenis Tipe Data",
+	  "content": "PHP mendukung delapan jenis tipe data yang terbagi atas tiga bagian, yaitu:",
+	  "user_id": 2
+   },
+   {
+	  "title": "Sintak Dasar PHP",
+	  "content": "Untuk menulis sintak pemogramman PHP, membutuhkan program editor text tambahan. Salah satu editor text yang paling umum dipakai adalah Notepad atau Notepad ++",
+	  "user_id": 1
+   }
+]
